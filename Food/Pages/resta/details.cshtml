@@ -1,0 +1,19 @@
+﻿@page  "{restaurantId}"
+@model Food.Pages.resta.detailsModel
+@{
+    ViewData["Title"] = "details";
+}
+
+<h2>Detallle de productos</h2>
+
+<div class="container">
+    <label>@Model.restaurant.name</label>
+    <label>@Model.restaurant.locationn</label>
+    <label>@Model.restaurant.type</label>
+
+
+</div>
+
+<a asp-page="./index"> Volver al listado </a>
+
+

@@ -1,0 +1,9 @@
+C:\Users\gcortes\source\repos\Food\FoodCore\bin\Debug\netcoreapp2.1\FoodCore.deps.json
+C:\Users\gcortes\source\repos\Food\FoodCore\bin\Debug\netcoreapp2.1\FoodCore.dll
+C:\Users\gcortes\source\repos\Food\FoodCore\bin\Debug\netcoreapp2.1\FoodCore.pdb
+C:\Users\gcortes\source\repos\Food\FoodCore\obj\Debug\netcoreapp2.1\FoodCore.csprojAssemblyReference.cache
+C:\Users\gcortes\source\repos\Food\FoodCore\obj\Debug\netcoreapp2.1\FoodCore.csproj.CoreCompileInputs.cache
+C:\Users\gcortes\source\repos\Food\FoodCore\obj\Debug\netcoreapp2.1\FoodCore.AssemblyInfoInputs.cache
+C:\Users\gcortes\source\repos\Food\FoodCore\obj\Debug\netcoreapp2.1\FoodCore.AssemblyInfo.cs
+C:\Users\gcortes\source\repos\Food\FoodCore\obj\Debug\netcoreapp2.1\FoodCore.dll
+C:\Users\gcortes\source\repos\Food\FoodCore\obj\Debug\netcoreapp2.1\FoodCore.pdb

@@ -1,0 +1,12 @@
+C:\Users\gcortes\source\repos\Food\OdtFood\bin\Debug\netcoreapp2.1\OdtFood.deps.json
+C:\Users\gcortes\source\repos\Food\OdtFood\bin\Debug\netcoreapp2.1\OdtFood.dll
+C:\Users\gcortes\source\repos\Food\OdtFood\bin\Debug\netcoreapp2.1\OdtFood.pdb
+C:\Users\gcortes\source\repos\Food\OdtFood\bin\Debug\netcoreapp2.1\FoodCore.dll
+C:\Users\gcortes\source\repos\Food\OdtFood\bin\Debug\netcoreapp2.1\FoodCore.pdb
+C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.csprojAssemblyReference.cache
+C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.csproj.CoreCompileInputs.cache
+C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.AssemblyInfoInputs.cache
+C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.AssemblyInfo.cs
+C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.csproj.CopyComplete
+C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.dll
+C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.pdb

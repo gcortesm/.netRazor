@@ -1,0 +1,39 @@
+﻿@page
+@model Food.Pages.resta.indexModel
+@{
+    ViewData["Title"] = "index";
+}
+
+<h2>Restaurantes Bien chingones carnal</h2>
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchParam" />
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    <i class="glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<div>
+    <table class="table">
+        @foreach (var restauran in Model.Restaureants)
+        {
+            <tr>
+                <td>@restauran.name</td>
+                <td>@restauran.locationn</td>
+                <td>@restauran.type</td>
+                <td>
+                    <a class="btn btn-lg" asp-page="./details" asp-route-restaurantId="@restauran.id"> <i class="glyphicon glyphicon-open" ></i></a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+
+@Model.message

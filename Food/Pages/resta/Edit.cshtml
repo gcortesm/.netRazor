@@ -1,0 +1,29 @@
+﻿@page
+@model Food.Pages.resta.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Restaurant</h2>
+
+
+<form method="post">
+    <input type="hidden" asp-form="restaurant.id" />
+    <div class=" form-group">
+        <label asp-for="restaurant.name"></label>
+        <input asp-for="restaurant.name" class="form-control"/>
+    </div>
+    <div class=" form-group">
+        <label asp-for="restaurant.locationn"></label>
+        <input asp-for="restaurant.locationn" class="form-control" />
+    </div>
+    <div class=" form-group">
+        <label asp-for="restaurant.type"></label>
+        <select asp-for="restaurant.type" asp-items="Model.cusines">
+        </select>
+    </div>
+
+    <button type="submit"></button>
+
+</form>
+
