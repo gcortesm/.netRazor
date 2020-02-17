@@ -15,8 +15,11 @@ namespace Food.Pages.resta
     {
         private readonly IFoodData iFoodData;
         private readonly IHtmlHelper html;
-        public Restauran restaurant;
-        public IEnumerable<SelectListItem> cusines;
+       
+        [BindProperty]
+        public Restauran restaurant { get; set; }
+        
+        public IEnumerable<SelectListItem> cusines { get; set; }
 
         public EditModel(IFoodData iFoodData,IHtmlHelper html)
         {
@@ -24,15 +27,42 @@ namespace Food.Pages.resta
             this.html = html;
         }
 
-        public ActionResult OnGet(int restaurantId)
+        public IActionResult OnGet(int restaurantId)
         {
-            restaurant = iFoodData.getById(restaurantId);
-            cusines = html.GetEnumSelectList<typeCusinet>();
-            if (restaurant == null)
+            if (restaurantId > 0)
             {
-                return RedirectToPage("./notFound");
+                restaurant = iFoodData.getById(restaurantId);
+                cusines = html.GetEnumSelectList<typeCusinet>();
+                if (restaurant == null)
+                {
+                    return RedirectToPage("./notFound");
+                }
+            }
+            else
+            {
+                restaurant = new Restauran();
             }
             return Page();
+        }
+
+        public IActionResult OnPost()
+        {
+            if (!ModelState.IsValid)
+            {
+                cusines = html.GetEnumSelectList<typeCusinet>();
+                return Page();
+            }
+
+            if (restaurant.id > 0)
+            {
+                restaurant = iFoodData.update(restaurant);
+            }
+            else
+            {
+                restaurant = iFoodData.save(restaurant);
+            }
+            iFoodData.commit();
+            return RedirectToPage("./details", new { restaurantId = restaurant.id });
         }
     }
 }

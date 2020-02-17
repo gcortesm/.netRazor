@@ -15,6 +15,9 @@ namespace Food.Pages.resta
         public  Restauran restaurant { get; set; }
         public IFoodData IFoodData { get; }
 
+        [TempData]
+        public String message { get; set; }
+
         public detailsModel(IFoodData iFoodData)
         {
             IFoodData = iFoodData;

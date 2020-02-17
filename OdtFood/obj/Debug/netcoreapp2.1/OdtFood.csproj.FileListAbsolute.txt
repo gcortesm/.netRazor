@@ -10,3 +10,14 @@ C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.Assem
 C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.csproj.CopyComplete
 C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.dll
 C:\Users\gcortes\source\repos\Food\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\bin\Debug\netcoreapp2.1\OdtFood.deps.json
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\bin\Debug\netcoreapp2.1\OdtFood.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\bin\Debug\netcoreapp2.1\OdtFood.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\bin\Debug\netcoreapp2.1\FoodCore.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\bin\Debug\netcoreapp2.1\FoodCore.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.AssemblyInfo.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.csproj.CopyComplete
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\OdtFood\obj\Debug\netcoreapp2.1\OdtFood.pdb

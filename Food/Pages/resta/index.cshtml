@@ -23,16 +23,24 @@
     <table class="table">
         @foreach (var restauran in Model.Restaureants)
         {
-            <tr>
-                <td>@restauran.name</td>
-                <td>@restauran.locationn</td>
-                <td>@restauran.type</td>
-                <td>
-                    <a class="btn btn-lg" asp-page="./details" asp-route-restaurantId="@restauran.id"> <i class="glyphicon glyphicon-open" ></i></a>
-                </td>
-            </tr>
+        <tr>
+            <td>@restauran.name</td>
+            <td>@restauran.locationn</td>
+            <td>@restauran.type</td>
+            <td>
+                <a class="btn btn-lg" asp-page="./details" asp-route-restaurantId="@restauran.id"> <i class="glyphicon glyphicon-open"></i></a>
+            </td>
+            <td>
+                <a class="btn btn-lg" asp-page="./edit" asp-route-restaurantId="@restauran.id"> 
+                    <i class="glyphicon glyphicon-edit"></i>
+                </a>
+            </td>
+        </tr>
         }
     </table>
+    <a class="btn btn-primary" asp-page="./edit" > Agregar Restaurante </a>
+
+
 </div>
 
 

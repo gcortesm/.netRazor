@@ -1,29 +1,33 @@
-﻿@page
+﻿@page "{restaurantId:int?}"
 @model Food.Pages.resta.EditModel
 @{
     ViewData["Title"] = "Edit";
 }
 
-<h2>Edit Restaurant</h2>
+<h2>Edit Restaurant @Model.restaurant.name</h2>
 
 
 <form method="post">
-    <input type="hidden" asp-form="restaurant.id" />
+    <input type="hidden" asp-for="restaurant.id" />
     <div class=" form-group">
         <label asp-for="restaurant.name"></label>
         <input asp-for="restaurant.name" class="form-control"/>
+        <span asp-validation-for="restaurant.name" class="text-danger"></span>
     </div>
     <div class=" form-group">
         <label asp-for="restaurant.locationn"></label>
         <input asp-for="restaurant.locationn" class="form-control" />
+        <span asp-validation-for="restaurant.locationn" class="text-danger"></span>
+
     </div>
     <div class=" form-group">
         <label asp-for="restaurant.type"></label>
-        <select asp-for="restaurant.type" asp-items="Model.cusines">
+        <select asp-for="restaurant.type" asp-items="@Model.cusines" class="form-control">
         </select>
+        <span asp-validation-for="restaurant.type" class="text-danger"></span>
     </div>
 
-    <button type="submit"></button>
+    <button type="submit" class="btn btn-primary"> Enviar</button>
 
 </form>
 

@@ -688,31 +688,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gcortes\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gcortes\\source\\repos\\Food\\FoodCore\\FoodCore.csproj",
+      "projectUniqueName": "C:\\Users\\Desarrollo\\Desktop\\.Net core\\.netRazor\\FoodCore\\FoodCore.csproj",
       "projectName": "FoodCore",
-      "projectPath": "C:\\Users\\gcortes\\source\\repos\\Food\\FoodCore\\FoodCore.csproj",
-      "packagesPath": "C:\\Users\\gcortes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gcortes\\source\\repos\\Food\\FoodCore\\obj\\",
+      "projectPath": "C:\\Users\\Desarrollo\\Desktop\\.Net core\\.netRazor\\FoodCore\\FoodCore.csproj",
+      "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Desarrollo\\Desktop\\.Net core\\.netRazor\\FoodCore\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gcortes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+        "C:\\Users\\Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -738,10 +732,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

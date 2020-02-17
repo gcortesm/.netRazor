@@ -37,3 +37,45 @@ C:\Users\gcortes\source\repos\Food\Food\bin\Debug\netcoreapp2.1\OdtFood.pdb
 C:\Users\gcortes\source\repos\Food\Food\bin\Debug\netcoreapp2.1\FoodCore.pdb
 C:\Users\gcortes\source\repos\Food\Food\obj\Debug\netcoreapp2.1\Razor\Pages\resta\details.g.cshtml.cs
 C:\Users\gcortes\source\repos\Food\Food\obj\Debug\netcoreapp2.1\Razor\Pages\resta\notFound.g.cshtml.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Food.deps.json
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Food.runtimeconfig.json
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Food.runtimeconfig.dev.json
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Food.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Food.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Food.Views.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\Food.Views.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\FoodCore.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\OdtFood.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\OdtFood.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\bin\Debug\netcoreapp2.1\FoodCore.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.RazorAssemblyInfo.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.RazorAssemblyInfo.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.AssemblyInfo.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.TagHelpers.input.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.TagHelpers.output.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.RazorCoreGenerate.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\resta\details.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\resta\Edit.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\resta\index.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\resta\notFound.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.RazorTargetAssemblyInfo.cs
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.Views.pdb
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.csproj.CopyComplete
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.dll
+C:\Users\Desarrollo\Desktop\.Net core\.netRazor\Food\obj\Debug\netcoreapp2.1\Food.pdb
